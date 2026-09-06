@@ -4,7 +4,7 @@ A simple and interactive unit conversion tool built using **HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-👉 **[Open Simple Unit Converter](https://joshika221b-source.github.io/simple-unit-convertor/simple%20convertor/simpleconvertor.html)**
+👉 **[Open Simple Unit Converter](https://joshika221b-source.github.io/simple-unit-convertor/simple%20convertor/simpleconverter.html**
 
 ## ✨ Features
 
